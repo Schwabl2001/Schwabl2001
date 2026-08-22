@@ -37,5 +37,3 @@ Das ist ein frisches Profil, auf dem ich nach und nach kleinere Projekte und Exp
 - 🏋️ Regelmäßig im Fitnessstudio
 - 🎓 Frisch von CODERS.BAY Vienna – Full-Stack Developer
 - 🔄 Quereinsteiger aus Versicherung & öffentlicher Verwaltung
-
-<img width="454" height="714" alt="image" src="https://github.com/user-attachments/assets/61a51cbc-a4a8-4643-be6e-1620bc606f38" />
